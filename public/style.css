@@ -1,0 +1,44 @@
+body {
+    background-image: url(sayagata-400px.png);
+    padding-top: 70px;
+}
+
+img {
+    height: 300px;
+    width: 200px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    border: solid 2px;
+}
+
+.float {
+    float: right;
+}
+
+
+
+/*
+form {
+    margin: 10px;
+}
+
+.form {
+    display: inline-block;
+    padding: 100px;
+}
+*/
+
+
+/*
+li {
+    background-color: ;
+    height: 40PX;
+    display: inline-block;
+    border: 1px solid #ccc;
+}*/
+
+
+/*
+.div {
+    margin-top: 10px;
+}*/
